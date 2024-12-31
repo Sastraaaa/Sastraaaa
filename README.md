@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sastra!<br>I'm a passionate Fullstack Web Developer and software enthusiast with experience in crafting functional and dynamic web applications.<br><br>🛠️ Tech Stack:<br>Languages: HTML, CSS, JavaScript, Python, PHP,<br>Frameworks & Tools: Laravel, Express.js, React, Next.js, Node.js<br>Databases: MySQL<br>Styling: Tailwind CSS, Bootstrap<br>Deployment Platforms: Vercel, Netlify<br><br>🎮 Hobbies:<br>Playing games<br>Learning programming<br>Reading articles<br><br>🚀 Looking for Opportunities:<br>I'm open to collaborations and projects in the field of Fullstack Development. Let's build something amazing together!<br><br>✨ Personal Motto:<br>"Keep becoming a better version of yourself every day."<br><br>Feel free to explore my repositories and reach out for any collaboration or project discussion. 🚀
+Hi, I'm Sastra!<br>I'm a passionate Fullstack Web Developer and software enthusiast with experience in crafting functional and dynamic web applications.<br><br>🛠️
 
 
 ## 🌐 Socials:
