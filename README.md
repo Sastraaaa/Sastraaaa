@@ -1,6 +1,4 @@
-# 💫 About Me:
-Hi, I'm Sastra!<br>I'm a passionate Fullstack Web Developer and software enthusiast with experience in crafting functional and dynamic web applications.<br><br>🛠️
-
+# 💫 Hi, I'm Sastra!<br>I'm a passionate Fullstack Web Developer and software enthusiast with experience in crafting functional and dynamic web applications.<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sastra) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sstrawnsyah) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kharismasastrawansyah) 
